@@ -29,6 +29,6 @@ s.source = { :git => "https://github.com/MaroofKhan/HorizontalProgress.git", :ta
 s.framework = "UIKit"
 
 # 8
-s.source_files = "HorizontalProgressView/**/*.{swift}"
+s.source_files = "HorizontalProgressView/*.{swift}"
 
 end

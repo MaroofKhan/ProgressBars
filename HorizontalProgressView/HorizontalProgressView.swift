@@ -52,7 +52,6 @@ class HorizontalProgressView: UIView {
     private func update (progress: Float) {
         guard progress <= maximum else {
             fatalError("Progress Value exceeded maximum value")
-            return
         }
         
         progressConstraint.constant = ((CGFloat) (progress * perProgress))

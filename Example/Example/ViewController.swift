@@ -7,10 +7,11 @@
 //
 
 import UIKit
+import HorizontalProgressView
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var progressbar: HorizontalProgressView!
+    @IBOutlet weak var progressbar: HorizontalProgressView
 
     override func viewDidLoad() {
         super.viewDidLoad()

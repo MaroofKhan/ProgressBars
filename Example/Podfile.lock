@@ -1,0 +1,10 @@
+PODS:
+  - HorizontalProgressView (0.9.5)
+
+DEPENDENCIES:
+  - HorizontalProgressView
+
+SPEC CHECKSUMS:
+  HorizontalProgressView: 1f04481577b31df5311f4c1e030a83173369414e
+
+COCOAPODS: 0.39.0
